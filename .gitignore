@@ -2,3 +2,4 @@
 *.csv
 env/
 task2/nlp/
+*.gz
